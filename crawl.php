@@ -244,7 +244,7 @@ function followLinks($url){
 
 }
 
-$startUrl = "https://en.wikipedia.org/wiki/Corona";
+$startUrl = "https://en.wikipedia.org/wiki/Orange_(fruit)";
 
 followLinks($startUrl);
 
